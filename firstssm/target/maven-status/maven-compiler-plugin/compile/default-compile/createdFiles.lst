@@ -1,0 +1,12 @@
+cn\kgc\mapper\UserMapper.class
+cn\kgc\controller\UserController.class
+cn\kgc\service\impl\UserServiceImpl.class
+cn\kgc\service\test\UserServiceTest.class
+cn\kgc\convert\MyDateConvert.class
+cn\kgc\pojo\User.class
+cn\kgc\pojo\UserExample.class
+cn\kgc\pojo\UserExample$GeneratedCriteria.class
+cn\kgc\service\UserService.class
+cn\kgc\GeneratorSqlmap.class
+cn\kgc\pojo\UserExample$Criterion.class
+cn\kgc\pojo\UserExample$Criteria.class
